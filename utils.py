@@ -3,7 +3,7 @@ os.environ['GOOGLE_APPLICATIONS_CREDENTIALS'] = 'jokes-gektwr-ceafa8f930e7.json'
 
 import dialogflow_v2 as dialogflow
 dialogflow_session_client = dialogflow.SessionsClient()
-PROJECT_ID = 'jokes-gektwr'
+PROJECT_ID = 'jokes-2d0ba'
 
 
 def detect_intent_from_text(text, session_id, language_code='en'):
