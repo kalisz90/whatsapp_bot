@@ -1,4 +1,4 @@
-# WhatsApp Bot application
+# WhatsApp Bot application Python
 
 
 https://www.pythonblog.pl/index.php/2020/05/03/whatsapp-bot/
